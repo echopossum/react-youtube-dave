@@ -7,7 +7,7 @@ const Content = () => {
   
     return (
     <main>
-        <p>Hello {handleNameChange()}</p>
+        <p>Hello {handleNameChange()}!</p>
     </main>
   )
 }
